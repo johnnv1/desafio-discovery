@@ -1,6 +1,6 @@
 ---
 applications:
-- name: wagnersouza123-discovery
+- name: <sua-id>-discovery
   path: .
   memory: 256M
   instances: 1
